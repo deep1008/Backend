@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "first fullstack project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/deep1008/FullStack_Developement/issues"
   },
-  "homepage": "https://github.com/deep1008/FullStack_Developement#readme"
+  "homepage": "https://github.com/deep1008/FullStack_Developement#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
 }
