@@ -1,0 +1,19 @@
+{
+  "name": "fullstack_developement",
+  "version": "1.0.0",
+  "description": "first fullstack project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep1008/FullStack_Developement.git"
+  },
+  "author": "Deep Malani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep1008/FullStack_Developement/issues"
+  },
+  "homepage": "https://github.com/deep1008/FullStack_Developement#readme"
+}
