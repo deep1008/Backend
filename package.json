@@ -19,5 +19,10 @@
   "homepage": "https://github.com/deep1008/FullStack_Developement#readme",
   "devDependencies": {
     "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
   }
 }
